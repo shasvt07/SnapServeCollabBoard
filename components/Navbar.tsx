@@ -26,7 +26,7 @@ const Navbar = ({
     <nav className='flex select-none items-center justify-between gap-4 bg-primary-black px-5 text-white'>
       <div className='flex items-center justify-between gap-2'>
         <Image
-          src='/assets/snapserve.jpeg'
+          src='/assets/SnapServe.jpeg'
           className='border-50'
           width={50}
           height={50}
